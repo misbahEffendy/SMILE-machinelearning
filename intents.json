@@ -1,0 +1,142 @@
+{
+  "intents": [
+    {
+      "tag": "kesehatan_mental",
+      "patterns": [
+        "Saya merasa kewalahan",
+        "Saya merasa cemas",
+        "Saya merasa depresi",
+        "Saya sedang mengalami masalah kesehatan mental"
+      ],
+      "responses": [
+        "Saya di sini untuk mendengarkan dan mendukung Anda. Bisakah Anda memberi tahu saya lebih banyak tentang apa yang sedang terjadi?",
+        "Tampaknya Anda sedang mengalami masa sulit. Bagaimana saya bisa membantu Anda merasa lebih baik?"
+      ]
+    },
+    {
+      "tag": "strategi_mengatasi",
+      "patterns": [
+        "Bagaimana cara mengatasi kecemasan?",
+        "Apa yang bisa saya lakukan agar merasa lebih baik?",
+        "Apa saja cara untuk mengelola depresi?"
+      ],
+      "responses": [
+        "Beberapa strategi untuk mengatasi kecemasan termasuk latihan pernapasan dalam, praktik kesadaran diri, dan aktivitas fisik. Apakah Anda sudah mencoba salah satu dari ini?",
+        "Ada banyak cara untuk mengelola depresi, seperti terapi, pengobatan, dan praktik perawatan diri. Bisakah kita menjelajahi opsi mana yang mungkin terbaik untuk Anda?"
+      ]
+    },
+    {
+      "tag": "sumber_referensi",
+      "patterns": [
+        "Bisakah Anda merekomendasikan seorang terapis?",
+        "Di mana saya bisa menemukan kelompok dukungan?",
+        "Apa saja hotline yang bisa saya hubungi?"
+      ],
+      "responses": [
+        "Terdapat banyak sumber daya yang tersedia untuk mendukung kesehatan mental. Saya dapat memberikan daftar terapis lokal, kelompok dukungan, dan hotline. Apakah Anda ingin saya melakukannya?",
+        "Harap ketahui bahwa Anda tidak sendirian. Terdapat banyak sumber daya yang tersedia untuk mendapatkan bantuan. Saya dapat memberikan beberapa informasi tentang hal tersebut jika Anda ingin."
+      ]
+    },
+    {
+      "tag": "relaksasi",
+      "patterns": [
+        "Bisakah Anda membantu saya rileks?",
+        "Saya perlu menenangkan diri",
+        "Saya merasa stres"
+      ],
+      "responses": [
+        "Tentu, beberapa teknik relaksasi termasuk latihan pernapasan dalam, meditasi, dan yoga. Apakah Anda ingin saya membimbing Anda melalui salah satunya?",
+        "Tentu saja, beberapa cara untuk rileks termasuk mendengarkan musik yang menenangkan, membaca buku, atau mandi air hangat. Apa yang bisa saya lakukan untuk membantu Anda rileks saat ini?"
+      ]
+    },
+    {
+      "tag": "darurat",
+      "patterns": [
+        "Saya dalam bahaya",
+        "Saya memikirkan untuk melukai diri sendiri",
+        "Saya memiliki pemikiran bunuh diri"
+      ],
+      "responses": [
+        "Jika Anda dalam bahaya atau memikirkan untuk melukai diri sendiri, silakan segera hubungi layanan darurat. Jika Anda berada di Amerika Serikat, Anda dapat menelepon 911. Jika Anda berada di negara lain, silakan hubungi nomor layanan darurat untuk wilayah Anda.",
+        "Harap ketahui bahwa bantuan tersedia. Jika Anda memikirkan untuk melukai diri sendiri atau dalam krisis, silakan segera hubungi layanan darurat atau hubungi National Suicide Prevention Lifeline di Amerika Serikat di nomor 1-800-273-TALK (8255)."
+      ]
+    },
+    {
+      "tag": "salam",
+      "patterns": [
+        "Halo",
+        "Hai",
+        "Apa kabar",
+        "Ada orang di sana?",
+        "Halo",
+        "Selamat hari"
+      ],
+      "responses": [
+        "Hai"
+      ]
+    },
+    {
+      "tag": "perpisahan",
+      "patterns": ["Sampai jumpa", "Sampai jumpa nanti", "Selamat tinggal"],
+      "responses": [
+        "Sampai jumpa nanti, terima kasih atas kunjungannya",
+        "Semoga harimu menyenangkan",
+        "Selamat tinggal! Datang lagi nanti."
+      ]
+    },
+    {
+      "tag": "terima_kasih",
+      "patterns": ["Terima kasih", "Terima kasih banyak", "Itu membantu sekali"],
+      "responses": ["Senang bisa membantu!", "Kapan saja!", "Sama-sama"]
+    },
+    {
+      "tag": "barang",
+      "patterns": [
+        "Apa saja barang yang kamu miliki?",
+        "Apa saja jenis barang yang ada?",
+        "Apa yang kamu jual?"
+      ],
+      "responses": [
+        "Kami menjual kopi dan teh",
+        "Kami memiliki kopi dan teh"
+      ]
+    },
+    {
+      "tag": "pembayaran",
+      "patterns": [
+        "Apakah kamu menerima kartu kredit?",
+        "Apakah kamu menerima Mastercard?",
+        "Bisakah saya membayar dengan Paypal?",
+        "Apakah hanya tunai?"
+      ],
+      "responses": [
+        "Kami menerima VISA, Mastercard, dan Paypal",
+        "Kami menerima sebagian besar kartu kredit utama dan Paypal"
+      ]
+    },
+    {
+      "tag": "pengiriman",
+      "patterns": [
+        "Berapa lama waktu pengiriman?",
+        "Berapa lama waktu pengiriman?",
+        "Kapan saya mendapatkan pengiriman?"
+      ],
+      "responses": [
+        "Pengiriman membutuhkan waktu 2-4 hari",
+        "Pengiriman membutuhkan waktu 2-4 hari"
+      ]
+    },
+    {
+      "tag": "lucu",
+      "patterns": [
+        "Ceritakan lelucon!",
+        "Ceritakan sesuatu yang lucu!",
+        "Apakah kamu tahu lelucon?"
+      ],
+      "responses": [
+        "Mengapa orang hipster membakar mulutnya? Dia minum kopi sebelum dingin.",
+        "Apa yang dikatakan bison ketika anaknya pergi kuliah? Bison."
+      ]
+    }
+  ]
+}
