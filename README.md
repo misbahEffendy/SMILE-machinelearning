@@ -1,4 +1,4 @@
 # SMILE (Support and Mental Insight for Life Empowerment)
-
 According to the Indonesia-National Adolescent Mental Health Survey 2022, 15.5 million (34.9%) adolescents experience mental health problems and 2.45 million (5.5%) adolescents experience mental disorders. Out of that number, only 2.6% have accessed counseling services. Mental health has become a crucial issue for young generations lately. Many young people feel anxious about their circumstances but don't know who to talk to. In addition, anxiety and shame make it difficult to share their problems with others, fearing they may be seen as exaggerating.
+
 Therefore, our Capstone project aims to create and develop a mental health chatbot that is interactive and supportive to assist users in improving their mental well-being and in hopes of returning the smile of its users.
