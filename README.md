@@ -1,6 +1,6 @@
 <h1>SMILE (Support and Mental Insight for Life Empowerment)</h1>
 
-![logo](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/Logo.png){width=300 height=200}
+![logo](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/Logo.png){width=100 height=50}
 <p>According to the Indonesia-National Adolescent Mental Health Survey 2022, 15.5 million (34.9%) 
   adolescents experience mental health problems and 2.45 million (5.5%) adolescents experience mental disorders. 
   Out of that number, only 2.6% have accessed counseling services. Mental health has become a crucial issue for young generations lately. Many young people feel anxious about their circumstances but don't know who to talk to. In addition, anxiety and
@@ -27,12 +27,12 @@
 
 This Project is developed using:
 
-![Python](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/Python.png){width=300 height=200}
+![Python](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/Python.png){width=100 height=50}
 
 
 Also the libraries :
 
-![TensorFlow](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/TensorFlow.png){width=300 height=200}
+![TensorFlow](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/TensorFlow.png){width=100 height=50}
 
 
 ## Installation
