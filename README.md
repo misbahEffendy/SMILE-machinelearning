@@ -1,4 +1,38 @@
-# SMILE (Support and Mental Insight for Life Empowerment)
-According to the Indonesia-National Adolescent Mental Health Survey 2022, 15.5 million (34.9%) adolescents experience mental health problems and 2.45 million (5.5%) adolescents experience mental disorders. Out of that number, only 2.6% have accessed counseling services. Mental health has become a crucial issue for young generations lately. Many young people feel anxious about their circumstances but don't know who to talk to. In addition, anxiety and shame make it difficult to share their problems with others, fearing they may be seen as exaggerating.
+<h1>SMILE (Support and Mental Insight for Life Empowerment)</h1>
 
-Therefore, our Capstone project aims to create and develop a mental health chatbot that is interactive and supportive to assist users in improving their mental well-being and in hopes of returning the smile of its users.
+![logo](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/Logo.png)
+<p>According to the Indonesia-National Adolescent Mental Health Survey 2022, 15.5 million (34.9%) 
+  adolescents experience mental health problems and 2.45 million (5.5%) adolescents experience mental disorders. 
+  Out of that number, only 2.6% have accessed counseling services. Mental health has become a crucial issue for young generations lately. Many young people feel anxious about their circumstances but don't know who to talk to. In addition, anxiety and
+  shame make it difficult to share their problems with others, fearing they may be seen as exaggerating.</p>
+<p>Therefore, our Capstone project aims to create and develop a mental health chatbot that is interactive and supportive to assist users in improving their mental well-being and in hopes of returning the smile of its users.</p>
+
+
+## Features
+- **Conversational Support**: SMILE engages in conversations with users, providing a friendly and empathetic interface for discussing mental health concerns.
+- **Chat History**: SMILE provides a user history chat for the user who wants to take a look twice or more about the information or discussion.
+
+
+## Implementation Flow
+
+![impflowfix](https://github.com/zaidannoor/Bangkit-capstone/assets/36230520/a29ebe68-3caa-48c8-9d57-00e72d21e1b7)
+
+
+## Tools
+
+- [Visual Studio Code](https://code.visualstudio.com/) - to preprocessing and train the data.
+
+
+## Language
+
+This Project is developed using:
+
+![Python](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/Python.png)
+
+
+Also the libraries :
+
+![TensorFlow](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/TensorFlow.png)
+
+
+## Installation
