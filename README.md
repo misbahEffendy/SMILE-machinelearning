@@ -33,3 +33,31 @@ This Project is developed using:
 Also the libraries:
 
 ![TensorFlow](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/TensorFlow.png)
+
+
+## Replication Steps
+
+To replicate the project, follow these steps:
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/misbahEffendy/SMILE-machinelearning.git
+```
+
+2. Navigate to the project directory:
+
+```sh
+cd SMILE-machinelearning
+```
+
+4. Run the training notebook `train.ipynb` to train the model: 
+
+```sh
+jupyter notebook train.ipynb
+```
+
+5. Run the testing notebook `test.ipynb` to evaluate the trained model or use it for predictions:
+
+```sh
+jupyter notebook test.ipynb
