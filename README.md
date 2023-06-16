@@ -30,7 +30,7 @@ This Project is developed using:
 ![Python](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/Python.png)
 
 
-Also the libraries :
+Also the libraries:
 
 ![TensorFlow](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/TensorFlow.png)
 
