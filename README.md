@@ -15,7 +15,7 @@
 
 ## Implementation Flow
 
-![impflowfix](https://github.com/zaidannoor/Bangkit-capstone/assets/36230520/a29ebe68-3caa-48c8-9d57-00e72d21e1b7)
+![impflowfix](https://github.com/misbahEffendy/SMILE-machinelearning/blob/3026fda27df8b487fb45745128a3246332d0cb1f/asset/Implementation%20Flow%20MLxCC.png)
 
 
 ## Tools
