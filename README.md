@@ -33,6 +33,3 @@ This Project is developed using:
 Also the libraries:
 
 ![TensorFlow](https://github.com/misbahEffendy/SMILE-machinelearning/blob/496762fd3ce98c4f2d4e145470b4d120314d4810/asset/TensorFlow.png)
-
-
-## Installation
