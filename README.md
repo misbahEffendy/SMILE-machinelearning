@@ -66,5 +66,6 @@ jupyter notebook test.ipynb
 
 ## Contributor
 
-- @misbahEffendy
-- @MahiraPutri149
+- [misbahEffendy](https://github.com/misbahEffendy)
+- [MahiraPutri149](https://github.com/MahiraPutri149)
+- [dazzerz](https://github.com/dazzerz)
