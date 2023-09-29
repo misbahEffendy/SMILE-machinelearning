@@ -61,3 +61,9 @@ jupyter notebook train.ipynb
 
 ```sh
 jupyter notebook test.ipynb
+
+
+## Contributor
+
+- @misbahEffendy
+- @MahiraPutri149
